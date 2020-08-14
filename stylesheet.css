@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+  }
+  
+  #main{
+  }
+  
+  #title{
+    background-color: hsl(0, 100%, 89%);
+    color: 	hsl(302, 100%, 27%);
+    font-family: garamond;
+    height: auto;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 800;
+    margin-top: -50px;
+  }
+  
+  #img-div{
+    text-align: center;
+    padding: 0 100px 0 100px;
+  }
+  
+  #image{
+    display: block;
+    height: auto;
+    max-width: 100%;
+  }
+  
+  #img-caption{
+    font-family: garamond;
+    font-size: 20px;
+    color: hsl(302, 100%, 27%);
+  }
+  
+  #tribute-info{
+    margin: 0 100px 0 100px;
+    background-color: hsl(0, 100%, 89%);
+    color: hsl(302, 100%, 27%);
+    font-family: garamond;
+    font-size: 30px;
+    padding: 2px 20px 2px 20px;
+  }
+  
+  footer{
+    font-family: garamond;
+    color: hsl(302, 100%, 27%);
+    font-size: 20px;
+  }
